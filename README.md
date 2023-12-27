@@ -1,6 +1,6 @@
 # Projeto Pokedéx Pokémon - Manual do Dev
 
-<h1 align="center"> Pokedéx criada por Manual Dev </h1>
+<h1 align="center"> Pokedéx criada através dos ensinamentos do canal Manual do Dev, para a construção do meu portfólio </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido por Claudio Geovane, para agregar em seu portfólio, aprendido por meio do curso oferecido pelo 
