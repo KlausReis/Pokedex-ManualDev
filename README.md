@@ -21,7 +21,7 @@ Programa exclusivo e gratuito, promovido por Claudio Geovane, para agregar em se
 <br>
 
 <p align="center">
-  <img alt="projeto x-man" src="src/imagens/ReadmeXMan.jpeg" width="100%">
+  <img alt="projeto x-man" src="src/imagens/Readme.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
