@@ -21,7 +21,7 @@ Programa exclusivo e gratuito, promovido por Claudio Geovane, para agregar em se
 <br>
 
 <p align="center">
-  <img alt="Projeto Pokedéx" src=".src/Readme.jpeg" width="100%">
+  <img alt="Projeto Pokedéx" src=".src/imagens/Readme.jpeg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
